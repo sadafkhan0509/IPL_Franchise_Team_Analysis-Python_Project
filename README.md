@@ -26,14 +26,18 @@ This project is entirely contained in one Jupyter Notebook, which includes:
 
 There is no external script — all logic, visuals, and outputs are in a single notebook for easy review.
 
-# 📊 Dataset Used
-Source: Kaggle IPL Dataset
-Files analyzed:
-- matches.csv
-- deliveries.csv
-Filters applied:
-- Seasons from 2021 to 2024
-- Minimum 3 matches for player inclusion
+## 📊 Dataset Used
+
+**Source:** Kaggle IPL Dataset  
+
+**Files analyzed:**
+- `matches.csv`
+- `deliveries.csv`
+
+**Filters applied:**
+- Seasons from **2021 to 2024**
+- Minimum **3 matches** for player inclusion
+
 
 # 🧹 Step 1 — Data Cleaning & Preparation
 The notebook performs:
