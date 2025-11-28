@@ -4,9 +4,10 @@ Using Python and Jupyter Notebook, the analysis focuses on selecting an optimal,
 
 # 🎯 Project Summary
 Over four IPL seasons (2021–2024), hundreds of players batted, bowled, and contributed differently. Instead of simply picking top run-scorers or wicket-takers, this project analyzes:
--Multi-season performance
--Player consistency
--Role-specific strengths
--Statistical normalization
--Balanced team-building logic
--Visual pattern recognition
+
+- Multi-season performance
+- Player consistency
+- Role-specific strengths
+- Statistical normalization
+- Balanced team-building logic
+- Visual pattern recognition
